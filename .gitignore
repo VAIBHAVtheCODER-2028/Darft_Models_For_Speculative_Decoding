@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+checkpoints/
+*.pt
+data/raw/
+data/processed/
+.vscode/
+
+
